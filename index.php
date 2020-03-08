@@ -15,20 +15,22 @@
         </section>
         <section class="col-12 bg-light rounded border p-5 my-3">
             <h2 class="col-12 mb-4">Conteúdo Abordado</h2>
-            <ul class="col-12 col-lg-6">
-                <li>console.log()</li>
-                <li>seletores</li>
-                <li>manipulação do DOM</li>
-                <li>funções</li>
-                <li>loops</li>
-            </ul>
-            <ul class="col-12 col-lg-6">
-                <li>condicionais</li>
-                <li>eventos</li>
-                <li>AJAX</li>
-                <li>callback</li>
-                <li>fetch API</li>
-            </ul>
+            <div class="col-12 row px-5">
+                <ul class="col-12 col-lg-6">
+                    <li>console.log()</li>
+                    <li>seletores</li>
+                    <li>manipulação do DOM</li>
+                    <li>funções</li>
+                    <li>loops</li>
+                </ul>
+                <ul class="col-12 col-lg-6">
+                    <li>condicionais</li>
+                    <li>eventos</li>
+                    <li>AJAX</li>
+                    <li>callback</li>
+                    <li>fetch API</li>
+                </ul>
+            </div>
         </section>
         <section class="col-12 bg-light rounded border p-5 my-3">
             <h2 class="mb-4">Repositório</h2>
